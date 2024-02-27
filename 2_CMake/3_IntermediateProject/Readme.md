@@ -39,3 +39,7 @@ add_subdirectory(app)
 ```
 
         The major change is adding the location of the other CMakeLists.txt files location by using the function add_subdirectory. The rest defines the normal things that are similar to the HelloWorld project.
+
+The CMakeLists structure is as below
+
+![Alt text](1.png)
