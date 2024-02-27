@@ -1,0 +1,4 @@
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/2_BaseicProject/build/CMakeFiles/Library.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/2_BaseicProject/build/CMakeFiles/Executable.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/2_BaseicProject/build/CMakeFiles/edit_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/2_BaseicProject/build/CMakeFiles/rebuild_cache.dir
