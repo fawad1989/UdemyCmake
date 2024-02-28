@@ -1,5 +1,5 @@
 # Structuring Project
-
+    This will make the Executable file in the root/build/app and is executed form there
     1. Added 3 new folders namely app, src and inc.
        1. app contains the main.cpp and its individual CMakeLists.txt. This is the folder that will contain the Executable file to be run
           1. The CMakeLists.txt is as below

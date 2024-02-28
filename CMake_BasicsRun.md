@@ -32,3 +32,4 @@
             ![Alt text](1.png)
             ![Alt text](2.png)
         2. Extensions in VScode
+            ![Alt text](3.png)
