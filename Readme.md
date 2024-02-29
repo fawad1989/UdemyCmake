@@ -10,4 +10,4 @@
    1. 1_Intro -> Can have some setup files or environment setting
    2. 2_CMake -> Main folder for learning CMake and have individual folders for different modules
    3. 3_Outro -> Can have different learnings related to CMake
-7. 
+   4. 4_Docs -> Contains the Readme files on several topics
