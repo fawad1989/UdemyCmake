@@ -1,0 +1,10 @@
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/CMakeFiles/edit_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/CMakeFiles/rebuild_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/configure/CMakeFiles/edit_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/configure/CMakeFiles/rebuild_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/src/CMakeFiles/Library.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/src/CMakeFiles/edit_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/src/CMakeFiles/rebuild_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/app/CMakeFiles/Executable.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/app/CMakeFiles/edit_cache.dir
+/home/hfawadad/Fawad/UdemyCmake/2_CMake/6_SourcesAndHeaders/build/app/CMakeFiles/rebuild_cache.dir
